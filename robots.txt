@@ -1,0 +1,27 @@
+# Vathorst Makelaars — robots.txt
+# Iedereen welkom, inclusief AI-crawlers (GEO)
+
+User-agent: *
+Allow: /
+
+# AI / GEO crawlers expliciet welkom
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Sitemap
+Sitemap: https://www.vathorstmakelaars.nl/sitemap.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.vathorstmakelaars.nl/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.vathorstmakelaars.nl/img/michel-afspraak.jpg</image:loc>
+      <image:title>Michel Visser — Vathorst Makelaars</image:title>
+      <image:caption>Jouw makelaar voor Vathorst en de regio Amersfoort</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.vathorstmakelaars.nl/img/michel-advies.jpg</image:loc>
+      <image:title>Advies over de actuele woningmarkt in Amersfoort</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.vathorstmakelaars.nl/img/verkocht.jpg</image:loc>
+      <image:title>Verkocht in Vathorst — Vathorst Makelaars</image:title>
+    </image:image>
+  </url>
+</urlset>
