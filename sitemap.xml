@@ -7,16 +7,16 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://www.vathorstmakelaars.nl/img/michel-afspraak.jpg</image:loc>
+      <image:loc>https://www.vathorstmakelaars.nl/michel-afspraak.jpg</image:loc>
       <image:title>Michel Visser — Vathorst Makelaars</image:title>
       <image:caption>Jouw makelaar voor Vathorst en de regio Amersfoort</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://www.vathorstmakelaars.nl/img/michel-advies.jpg</image:loc>
+      <image:loc>https://www.vathorstmakelaars.nl/michel-advies.jpg</image:loc>
       <image:title>Advies over de actuele woningmarkt in Amersfoort</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.vathorstmakelaars.nl/img/verkocht.jpg</image:loc>
+      <image:loc>https://www.vathorstmakelaars.nl/verkocht.jpg</image:loc>
       <image:title>Verkocht in Vathorst — Vathorst Makelaars</image:title>
     </image:image>
   </url>
